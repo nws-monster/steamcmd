@@ -12,7 +12,7 @@
 
 Extend this base image with:
 
-```
+```dockerfile
 FROM nhalase/steamcmd:latest
 USER 1000:1000
 WORKDIR /home/steam
@@ -21,7 +21,7 @@ WORKDIR /home/steam
 
 ## Packages
 
-```
+```plain
 tzdata
 ntp
 locales
