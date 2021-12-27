@@ -1,0 +1,24 @@
+{
+    "files.insertFinalNewline": false,
+    "editor.renderFinalNewline": false,
+    "[json]": {
+        "files.insertFinalNewline": true,
+        "editor.renderFinalNewline": true
+    },
+    "[jsonc]": {
+        "files.insertFinalNewline": true,
+        "editor.renderFinalNewline": true
+    },
+    "[shellscript]": {
+        "files.insertFinalNewline": true,
+        "editor.renderFinalNewline": true
+    },
+    "[dockerfile]": {
+        "files.insertFinalNewline": true,
+        "editor.renderFinalNewline": true
+    },
+    "[dockercompose]": {
+        "files.insertFinalNewline": true,
+        "editor.renderFinalNewline": true
+    }
+}
